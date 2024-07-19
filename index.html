@@ -55,7 +55,7 @@
                 var obj = $("#table_int");
 
                 obj.html("");
-                $("<thead class='table-dark'><tr><th>Level</th><th>曲名</th><th>mochaIR</th><th>アーティスト</th>><th>差分</th><th>コメント</th></tr></thead><tbody>")
+                $("<thead class='table-dark'><tr><th>Level</th><th>曲名</th><th>mochaIR</th><th>アーティスト</th>><th>差分</th></tr></thead><tbody>")
                     .appendTo(obj);
                 var obj_sep = null;
                 for (var i = 0; i < info.length; i++) {
@@ -132,13 +132,6 @@
                             $("<td width='15%'></td>").appendTo(str);
                         }
                     }
-
-                    // Comment
-                    $("<td width='23%'>" + info[i].comment + "</td>").appendTo(str);
-                    str.appendTo(obj);
-                    count++;
-
-                }
                 $("</tbody>").appendTo(obj);
 
                 if (obj_sep != null) {
