@@ -2,13 +2,13 @@
   "name": "第6サティアン",
   "symbol": "LEVEL",
   "level_order": [
+    "-1",
     "0",
     "1",
     "2",
     "3",
     "4",
-    "5",
-    "-"
+    "5"
   ],
   "folder_order": [ ],
   "folder_sort_key": "",
