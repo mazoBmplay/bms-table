@@ -12,29 +12,14 @@
     "6",
     "( (c ：; ］ﾐ"
   ],
-  "course":
-[
-{"name":"第6サティアン段位認定 草案 1st stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["94c934c04e2c8f842da4b761220d776a","8816823b398ee07c09f27f4f74b44c79","f4b1885fe0edeefb4c098ece62d6b381","771d67ba8359bcf48681a8bfbd003d07"]},
-{"name":"第6サティアン段位認定 草案 2nd stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["b411341ca8a82d4931a1426aa2f19fcb","fa005dc25e137d10904c272563a6c6ee","4fa676f1f07859f683eb1c3ebea6dae6","6f7e57562c0761b89bac259152b319bd"]},
-{"name":"第6サティアン段位認定 草案 3rd stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["2d2801afdceec20cda6a6489e31b7c19","f2e1f5d41e5eb7f88723589a9010f33e","881cbc419f397dee3e4ff515c7f542c3","b9c4c22e71d6f10802448fc7952dcbe1"]},
-{"name":"第6サティアン段位認定 草案 4th stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["09f5a9b25c54512808d7097a15686d68","36f3215d3a3d3925091c09a8f285233b","bad3365ae66b169026a4c1295a5dd4bc","a50267bbfcdbefad1099b266fed5ea87"]},
-{"name":"第6サティアン段位認定 草案 5th stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["afd19edddb3067236c811adfb910fb32","a90a1a9762dfb31cd69dbd09f1184a14","bbbc16f6e002b213d9b4f480f24ad442","2dd1ed87822ec02eed4894e23535563b"]},
-{"name":"第6サティアン段位認定 草案 6th stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["f3c8e9f783bbe81a46d43dcf47e3f13d","ab42a6ca7b0352d960ac1c1a6a9041d9","7da23847d77b96985612f40332cf5865","b6cc3a63738d40dc2c467f2d67f08aa9"]},
-{"name":"第6サティアン段位認定 草案 7th stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["9106b18fe05a744a59a1abf0f78d7193","c430010324bd7808e257d545294cce3a","344dc70a14e735d7c425f3277cf896e9","3cffce121fccb673a89506793adf8645"]},
-{"name":"第6サティアン段位認定 草案 8th stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["7d76a96df3860002ec58b5e1ad61c4de","c728cd2edf7b2f1aeefff43f5fc4e852","184ecafe0958b4834a47bbc4aea0efe7","27cf891ebe25690b5efeab8017453d09"]},
-{"name":"第6サティアン段位認定 草案 9th stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["f0a238eab5dafa4356dcb55b0c1b7cc4","c479edd72d029defb4fa43f592694703","fbda9c821bfa08456d3e09c85505bee3","badfbaa40e684003a7cc2f5c8c6ce2eb"]},
-{"name":"第6サティアン段位認定 草案 10th stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["8485d37465e084b3567356cade3e562e","eaf5736013fb443900e6204ea47bc76d","687920c11974a1605f2b3d06aedea800","108c1a5dda89230049bffdb5fb56aa20"]},
-{"name":"第6サティアン段位認定 草案 Last stage","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["3fdf1ef24e88f9778978fbb98f878283","45e8f914affd3c38c7d536427075c44c","a2ae451a04a2adad8b92acb2799060d7","5d8c636c6909d60f8dd18af9a908822c"]}
-],
   "folder_order": [ ],
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "",
-  "last_update": "2024\/10\/13",
+  "last_update": "2025\/06\/19",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2024\/10\/13"
+  "output_date": "2025\/06\/19"
 }
-
